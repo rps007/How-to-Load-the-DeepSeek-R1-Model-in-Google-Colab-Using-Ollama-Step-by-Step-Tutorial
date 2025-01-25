@@ -1,0 +1,1 @@
+# How-to-Load-the-DeepSeek-R1-Model-in-Google-Colab-Using-Ollama-Step-by-Step-Tutorial
